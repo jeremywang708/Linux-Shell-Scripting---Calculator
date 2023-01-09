@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#Student name: Yun Wang, Student number:041069121
-#Course code: CST8102, Lab section: 302
-#Script file name: mycalc.sh
-#Description: This lab is designed for lab09 and will function as a simple calculation app to do addition/subtraction.
 
 # the function add() adds the 1st and 3rd parameters together and prints the result on the screen
 function add () {	
